@@ -1,0 +1,1 @@
+let arr=[5,"gh",1>3,function(){},{},class a{}];
