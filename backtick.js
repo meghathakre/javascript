@@ -18,7 +18,7 @@ let imgurl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTraORMV35k_0Uv
 let username="megha thakre";
 let userprofession="developer";
 let useremail="megha@1234567891";
-let usermobile="654546778"
+let usermobile="654546778";
 let useraddress="www.webdeveloper.com";
 
 let card=`<section class="carddesign">
